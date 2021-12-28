@@ -2,9 +2,6 @@
 A chatbot that teaches you about dog behavior questions.
 
 
-## For dataset, follow the below way
-
-
 
 ## usage
 
